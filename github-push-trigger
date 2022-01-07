@@ -7,4 +7,3 @@ node{
         print "Build Got triggered, tested"
     }
 }
-the job
